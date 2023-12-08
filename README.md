@@ -1,3 +1,14 @@
+# Link
+
+- Educational blog posts for Rust beginners
+  - pretzelhammer's Rust blog 🦀
+    - https://github.com/pretzelhammer/rust-blog
+    - https://github.com/YoungHaKim7/pretzelhammer_s_Rust_blog_Education
+- Rustlings
+  - test
+
+<hr>
+
 # Exercism_s_Rust_Track
 
 https://exercism.org/tracks/rust/exercises
